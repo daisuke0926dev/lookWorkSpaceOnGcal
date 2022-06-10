@@ -1,0 +1,2 @@
+# lookWorkSpaceOnGcal
+任意の人のGoogle calendar_勤務場所を取得するクローム拡張
